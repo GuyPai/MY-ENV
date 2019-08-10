@@ -115,3 +115,6 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# set VI mode
+set -o vi
