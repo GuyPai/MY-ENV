@@ -1,5 +1,5 @@
 mv ~/.bashrc ~/.bashrc.old
 mv ~/.vimrc ~/.vimrc.old
-ln -s ~/MY-ENV/.bashrc ~/.bashrc
-ln -s ~/MY-ENV/.vimrc ~/.vimrc
+ln -s ~/my-env/.bashrc ~/.bashrc
+ln -s ~/my-env/.vimrc ~/.vimrc
 source ~/.bashrc
